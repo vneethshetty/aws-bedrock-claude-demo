@@ -70,3 +70,19 @@ Demonstrates practical AI integration within cloud-native DevOps environments.
 
 
 
+\## Screenshots
+
+
+
+\### CLI Output
+
+!\[CLI Output](screenshots/cli-output.png)
+
+
+
+\### AWS Bedrock Playground
+
+!\[Playground Output](screenshots/playground-output.png)
+
+
+
